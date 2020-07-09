@@ -1,0 +1,36 @@
+html,body {
+    height: 100%;
+  }
+
+.nav-header {
+    height: 10%;
+}
+
+.nav-footer {
+    height: 10%;
+}
+
+.nav-content {
+    height: 80%;
+}
+
+.main-header {
+    height: 20%;
+}
+
+.main-footer {
+    height: 10%;
+}
+
+.main-content {
+    height: 70%;
+}
+
+div.gfg { 
+    margin:5px; 
+    padding:5px; 
+    width: 500px; 
+    height: 360px; 
+    overflow: auto; 
+    text-align:justify; 
+} 
